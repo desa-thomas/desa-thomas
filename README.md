@@ -2,7 +2,7 @@
 I'm Thomas De Sa, a third-year computer science and mathematics student. I love to code, play video games 🎮(souls and Melee are my current favorites), and skateboard🛹. 
 I am currently learning React and Express, and am trying to improve my web development skills!
 
-You can reach me by emailing desa2thomas@gmail.com or messaging me on [linked in](https://www.linkedin.com/in/thomas-de-sa-598379248/)
+You can reach me on [Linked In](https://www.linkedin.com/in/thomas-de-sa-598379248/), [Instagram](https://www.instagram.com/desa.thomas/), or emailing Desa2thomas@gmail.com!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desa-thomas&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <!--
