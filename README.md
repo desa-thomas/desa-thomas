@@ -4,8 +4,9 @@ I am currently learning React and Express, and am trying to improve my web devel
 
 You can reach me on [Linked In](https://www.linkedin.com/in/thomas-de-sa-598379248/), [Instagram](https://www.instagram.com/desa.thomas/), or emailing Desa2thomas@gmail.com!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desa-thomas&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desa-thomas&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 **desa-thomas/desa-thomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
