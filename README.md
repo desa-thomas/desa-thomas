@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You can reach me on [Linked In](https://www.linkedin.com/in/thomas-de-sa-598379248/), [Instagram](https://www.instagram.com/desa.thomas/), or emailing Desa2thomas@gmail.com!
+You can reach me on [Linked In](https://www.linkedin.com/in/thomas-de-sa-598379248/), or emailing Desa2thomas@gmail.com!
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desa-thomas&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
