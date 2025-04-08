@@ -1,13 +1,10 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo22600
-Fork on GitHub7454
+
 <h1 align="center">Hi 👋, I'm Thomas De Sa</h1>
 <h3 align="center">A computer science & mathematics student from Ontario, Canada</h3>
 
 - 🔭 I’m currently working on [console-chat](https://github.com/desa-thomas/chatting)
 
-- 📫 How to reach me **desa2thomas@gmail.com**
+- 📫 How to reach me: **desa2thomas@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
