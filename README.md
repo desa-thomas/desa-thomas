@@ -1,6 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Thomas De Sa</h1>
-<h3 align="center">A computer science & mathematics student from Ontario, Canada</h3>
+👋 Hi, I'm Thomas — a Mathematics and Computer Science student at Wilfrid Laurier University with a concentration in Statistics and Data Analysis. I'm passionate about data science and machine learning, and I enjoy building projects that turn data into insights. Always learning, always coding.
 
 - 🔭 I’m currently working on [console-chat](https://github.com/desa-thomas/chatting)
 
