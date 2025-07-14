@@ -1,8 +1,6 @@
 
 👋 Hi, I'm Thomas — a Mathematics and Computer Science student at Wilfrid Laurier University with a concentration in Statistics and Data Analysis. I'm passionate about data science and machine learning, and I enjoy building projects that turn data into insights. Always learning, always coding.
 
-- 🔭 I’m currently working on [console-chat](https://github.com/desa-thomas/chatting)
-
 - 📫 How to reach me: **desa2thomas@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
